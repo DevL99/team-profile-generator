@@ -20,7 +20,7 @@ Team Profile Generator is a great tool for a manager to create a webpage that di
 * jest
 
 ## Screenshot
-![image](/Demo/teamgen.jpg)
+![Screenshot](./Demo/teamgen.png)
 
 ## Demo
 [Demo](https://drive.google.com/file/d/1RKDvJHKv-A0ghx-P-AtxcQvlHjw0mKjz/view?usp=share_link)
