@@ -12,12 +12,12 @@
 Team Profile Generator is a great tool for a manager to create a webpage that display's their team's basic info so that they can have easy access to employees emails and github profiles. 
 
 ## Built-With
-* node.js
+* Node.js
 * JavaScript
 * Inquirer npm
 * HTML
 * CSS
-* jest
+* Jest
 
 ## Screenshot
 ![Screenshot](./Demo/teamgen.png)
